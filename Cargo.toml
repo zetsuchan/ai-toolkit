@@ -7,7 +7,7 @@ members = [
     "tools/ai-uniq",
     "tools/ai-cut",
     "tools/ai-join",
-    "tools/ai-validate", "tools/aiprobe", "tools/ghostwriter", "tools/explain-failure", "tools/reality-check", "tools/fact-density", "tools/citation-check", "tools/confidence-language", "tools/bullshit-score", "tools/verifychain", "tools/crowdverify", "tools/failure-modes", "tools/devil-advocate", "tools/verify-logger", "tools/auto-verify", "tools/semdiff", "tools/extract-claims", "tools/build-knowledge-graph", "tools/find-contradictions", "tools/chunker", "tools/netprobe", "tools/ratelimit-check", "tools/syntax-check", "tools/import-validator", "tools/api-endpoint-tester", "tools/rate-limit-analyzer",
+    "tools/ai-validate", "tools/aiprobe", "tools/ghostwriter", "tools/explain-failure", "tools/reality-check", "tools/fact-density", "tools/citation-check", "tools/confidence-language", "tools/bullshit-score", "tools/verifychain", "tools/crowdverify", "tools/failure-modes", "tools/devil-advocate", "tools/verify-logger", "tools/auto-verify", "tools/semdiff", "tools/extract-claims", "tools/build-knowledge-graph", "tools/find-contradictions", "tools/chunker", "tools/netprobe", "tools/ratelimit-check", "tools/syntax-check", "tools/import-validator", "tools/api-endpoint-tester", "tools/rate-limit-analyzer", "tools/factdiff", "tools/ai-tee", "tools/tokentop", "tools/aistream", "tools/verifyd", "tools/aicc", "tools/strace-ai", "tools/valgrind-ai",
 ]
 
 [workspace.package]

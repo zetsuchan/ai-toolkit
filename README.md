@@ -35,6 +35,23 @@ A collection of Rust-based command-line tools that extend Unix philosophy for AI
 - **syntax-check** / **import-validator** - Code validation
 - **api-endpoint-tester** / **rate-limit-analyzer** - API verification
 
+### Advanced uutils-Based Tools
+- **factdiff** - Semantic fact comparison using embeddings
+- **ai-tee** - Verification splitter for parallel analysis
+- **tokentop** - Real-time token analysis (like htop for AI generation)
+- **aistream** - Stream processing with backpressure and checkpoints
+- **verifyd** - Learning verification daemon
+
+### The Killer App: aicc (AI Compiler)
+- **aicc** - Compile natural language to verified code output
+- Multi-candidate generation with confidence scoring
+- Automated verification passes (syntax, security, imports, tests)
+- Language-agnostic with Python, Rust, JavaScript support
+
+### Low-Level Debugging Tools
+- **strace-ai** - Trace AI decision making and reasoning paths
+- **valgrind-ai** - Memory and safety verification for AI-generated code
+
 ## Building
 
 ```bash
